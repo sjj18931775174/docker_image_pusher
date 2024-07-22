@@ -1,4 +1,4 @@
-google/cadvisor:v0.49.2
+cadvisor:v0.49.2
 dyrnq/metrics-server:v0.7.1
 myifeng/registry.k8s.io_ingress-nginx_kube-webhook-certgen:v1.4.1
 laemmline/ingress-nginx-controller:v1.10.1
@@ -6,5 +6,5 @@ grafana/grafana：10.0.9
 prom/node-exporter：v1.81
 prom/prometheus：2.53.0
 prom/alermanager：0.27.0 
-google/cadvisor:v0.49.1
+cadvisor:v0.49.1
 prom/node-exporter：v1.8.1
