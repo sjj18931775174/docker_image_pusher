@@ -1,1 +1,1 @@
-prom/prometheus：2.53.0
+prom/prometheus:2.53.0
